@@ -2126,7 +2126,6 @@ isthackers:
   - ttl: 1
     type: CNAME
     value: isthackers.github.io.
-
 hacktks:
   - ttl : 1
     type: CNAME
